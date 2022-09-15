@@ -20,7 +20,7 @@ def dash_bar(dash_list, percent):
 def progress_bar(dash_list):
     percent = 0
     for i in range(0,19):
-        dash_list[i] = "#"
+        dash_list[i] = "✔️"
         percent += 5
         dash_bar(dash_list, percent)
         time.sleep(random.random())
