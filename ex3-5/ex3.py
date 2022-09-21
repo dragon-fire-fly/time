@@ -12,9 +12,9 @@ user_day = int(input("What day were you born?: "))
 
 today = datetime.date.today()
 
-this_year = today.year
-this_month = today.month
-this_day = today.day
+# this_year = today.year
+# this_month = today.month
+# this_day = today.day
 
 # input for january may be "jan", "january" or 1
 
