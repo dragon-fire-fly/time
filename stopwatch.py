@@ -1,8 +1,8 @@
 import time
 import os
 import math
-import keyboard
-import pynput
+# import keyboard
+# import pynput
 timer = False
 
 start_timer = input("Press any key to start the stopwatch: ")
